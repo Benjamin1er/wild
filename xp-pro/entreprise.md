@@ -1,10 +1,13 @@
 # Le nom de l'entreprise
 
+COTON
+
+
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+> Coton est un collectif de Freelances
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
+> Seulement mon référent et moi, on travaille dans les locaux WeWork
 
